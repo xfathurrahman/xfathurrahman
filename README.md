@@ -2,7 +2,7 @@
 
 🔭 Here are a few examples of projects I've completed:
 
-[+] <a href="https://lakubo.shop" target="blank_">https://lakubo.shop</a> - Lakubo - Lapak UMKM Boyolali ( E-Commerce B2C / C2C) <br> [+] https://mebel-pepak.fathurrahman.dev - Mebel Pepak ( E-Commerce B2C )
+[+] <a href="https://lakubo.shop" target="_blank">https://lakubo.shop</a> - Lakubo - Lapak UMKM Boyolali ( E-Commerce B2C / C2C) <br> [+] https://mebel-pepak.fathurrahman.dev - Mebel Pepak ( E-Commerce B2C )
 
 <!--
 **xfathurrahman/xfathurrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
