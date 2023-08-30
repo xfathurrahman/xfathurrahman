@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Here are a few examples of projects I've completed::
+🔭 Here are a few examples of projects I've completed:
 
 [+] https://lakubo.shop - Lakubo ( Lapak UMKM Boyolali  / E-Commerce B2C / C2C) <br> [+] https://mebel-pepak.fathurrahman.dev - Mebel Pepak ( E-Commerce B2C )
 
