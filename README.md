@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/xfathurrahman">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfathurrahman&layout=compact&langs_count=8&card_width=320&theme=synthwave"/>
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfathurrahman&layout=compact&bg_color=45,4f5bd5,962fbf,d62976,fa7e1e,feda75&title_color=fff&text_color=fff"/>
 </a>
 
 <!--
