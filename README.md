@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://wakatime.com/@fathur">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfathurrahman&layout=compact&langs_count=8&card_width=320&theme=radical&card_width=700"/>
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfathurrahman&layout=compact&langs_count=8&card_width=320&theme=synthwave"/>
 </a>
 
 <!--
