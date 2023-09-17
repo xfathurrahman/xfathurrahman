@@ -7,7 +7,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [contact@fathur.dev](mailto:contact@fathur.dev)
 - My personal website portofolio: <a href="https://fathur.dev">Fathur.dev</a>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fathur&layout=compact&bg_color=45,ddc275,fa7e1e,d62976,962fbf,4f5bd5&title_color=fff&text_color=fff)](https://github.com/xfathurrahman/)
+<a href="https://github.com/xfathurrahman/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fathur&layout=compact&bg_color=45,ddc275,fa7e1e,d62976,962fbf,4f5bd5&title_color=fff&text_color=fff&custom_title=Most&nbsp;Used&nbsp;Languanges&nbsp;(Last&nbsp;7&nbsp;Days" />
+</a>
 
 <!--
 **xfathurrahman/xfathurrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
