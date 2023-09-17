@@ -8,8 +8,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [contact@fathur.dev](mailto:contact@fathur.dev)
 - My personal website portofolio: <a href="https://fathur.dev">Fathur.dev</a>
 
-<figure><embed src="https://wakatime.com/share/@6b010e3d-d30f-42bb-aaba-0a8188d666c4/c087e35f-60f0-46f4-aa5a-15bbce4dabb6.svg"></embed></figure>
-
 <!--
 **xfathurrahman/xfathurrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
