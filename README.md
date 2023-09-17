@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - My personal website portofolio: <a href="https://fathur.dev">Fathur.dev</a>
 
 <a href="https://wakatime.com/@fathur">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fathur&layout=compact&bg_color=45,8a2be2,ff00ff,ff1493&title_color=fff&text_color=fff&card_width=320"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fathur&layout=compact&hide=ezhil&bg_color=45,6b0082,8a2be2,6b0082&title_color=fff&text_color=fff&langs_count=8"/>
 </a>
 
 <a href="https://github.com/xfathurrahman">
