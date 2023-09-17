@@ -8,11 +8,11 @@ Here are some ideas to get you started:
 - My personal website portofolio: <a href="https://fathur.dev">Fathur.dev</a>
 
 <a href="https://wakatime.com/@fathur">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fathur&layout=compact&bg_color=45,ddc275,fa7e1e,d62976,962fbf,4f5bd5&title_color=fff&text_color=fff&card_width=320"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fathur&layout=compact&bg_color=45,ff7f00,ff69b4,800080&title_color=fff&text_color=fff&card_width=320"/>
 </a>
 
 <a href="https://github.com/xfathurrahman">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfathurrahman&layout=compact&bg_color=45,4f5bd5,962fbf,d62976,fa7e1e,feda75&title_color=fff&text_color=fff"/>
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfathurrahman&layout=compact&bg_color=45,800080,ff69b4,ff7f00&title_color=fff&text_color=fff"/>
 </a>
 
 <!--
