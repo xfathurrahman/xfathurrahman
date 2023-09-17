@@ -4,7 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning React, Next.js and TypeScript
 - 📫 How to reach me: [contact@fathur.dev](mailto:contact@fathur.dev)
 - My personal website portofolio: <a href="https://fathur.dev">Fathur.dev</a>
 
