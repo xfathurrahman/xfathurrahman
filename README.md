@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/xfathurrahman">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfathurrahman&layout=compact&bg_color=45,ff1493,ff00ff,8a2be2&title_color=fff&text_color=fff"/>
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfathurrahman&layout=compact&bg_color=45,ff1493,ff00ff,8a2be2&title_color=fff&text_color=fff&langs_count=10"/>
 </a>
 
 <!--
