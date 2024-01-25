@@ -10,6 +10,10 @@
 [+] <a href="https://lakubo.shop" target="_blank">https://lakubo.shop</a> - Lakubo - Lapak UMKM Boyolali ( E-Commerce B2C / C2C) <br> [+] https://mebel-pepak.fathur.dev - Mebel Pepak ( E-Commerce B2C )
 -->
 
+🔭 Here are a few examples of projects I've completed:
+
+<a href="https://lakubo.shop" target="_blank">https://lakubo.shop</a> - Lakubo - Lapak UMKM Boyolali ( E-Commerce B2C / C2C) <br> [+] https://mebel-pepak.fathur.dev - Mebel Pepak ( E-Commerce B2C )
+
 Here are some ideas to get you started:
 
 - 📫 How to reach me: [contact@fathur.dev](mailto:contact@fathur.dev)
