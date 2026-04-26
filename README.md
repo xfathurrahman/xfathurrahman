@@ -44,3 +44,5 @@ Mac                      62 hrs 9 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/xfathurrahman/svg)](https://tokscale.ai/u/xfathurrahman)
